@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jump on that create a profile readme bandwagon 👋
 
 <!--
 **dyingSatyr/dyingSatyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
